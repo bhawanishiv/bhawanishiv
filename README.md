@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhawanishiv
-- 👀 I’m interested in Desiging and Develoopment of Applications.
+- 👀 I’m interested in Desiging and Developing applications.
 - 🌱 I’m currently learning `Spring`
 - 💞️ I’m looking to collaborate on any research related projects.
 - 📫 How to reach me: mail me at `bhawanishiv@gmail.com`.
