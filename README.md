@@ -6,5 +6,5 @@ Currently learning how javascript works and looking to collaborate on any braint
 
 How to reach me: mail me at `bhawanishiv@gmail.com`.
 
-Check my profile here -> https://bhawanishiv-portfolio.web.app/
+Check my profile here -> https://bhawanishiv.web.app/
 
